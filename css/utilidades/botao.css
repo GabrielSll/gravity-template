@@ -1,0 +1,22 @@
+.botoes-iniciais {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao a {
+    font-weight: 300;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    padding: 14px 25px;
+    background-color: #111111;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.botao a:hover {
+    transition: 0.4s;
+    background-color: #ffffff;
+    color: #000000;
+}

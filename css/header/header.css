@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.menu {
+    display: flex;
+    gap: 12px;
+    font-size: 14px;
+    font-weight: 200;
+    list-style: none;
+    text-transform: uppercase;
+    padding: 22px 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+}

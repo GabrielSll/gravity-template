@@ -1,0 +1,22 @@
+.pagina-inical {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.titulo {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.descricao {
+    text-align: center;
+    color: white;
+    padding: 30px;
+    font-size: 22px;
+    padding-top: 6px;
+    line-height: 1.8em;
+}
