@@ -4,7 +4,7 @@
 }
 
 .background-img {
-    height: 677px;
+    height: 100vh;
     background: url('../../img/metas.jpg') no-repeat;
     background-size: 100% auto;
     overflow: hidden;
