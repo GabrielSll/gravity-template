@@ -1,0 +1,39 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.titulo {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 65px;
+    font-weight: 900;
+    padding: 0;
+}
+
+.titulo-p {
+    text-align: center;
+    color: var(--preto);
+    font-size: 60px;
+    font-weight: 700;
+    padding-top: 80px;
+}
+
+.descricao {
+    text-align: center;
+    padding: 30px;
+    font-size: 18px;
+    line-height: 1.8em;
+    padding: 0;
+}
+
+.bg-1 {
+    background-color: var(--cor-0);
+}
+
+.bg-img {
+    height: 100vh;
+    background: url('../../img/metas.jpg') no-repeat;
+    background-size: 100% auto;
+    overflow: hidden;
+}

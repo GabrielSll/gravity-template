@@ -7,12 +7,12 @@ header {
 
 .menu {
     display: flex;
-    gap: 12px;
-    font-size: 14px;
+    gap: 20px;
+    font-size: 12px;
     font-weight: 200;
     list-style: none;
     text-transform: uppercase;
-    padding: 22px 0;
+    padding: 35px 0;
 }
 
 .menu a {

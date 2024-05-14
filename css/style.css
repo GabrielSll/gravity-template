@@ -1,5 +1,7 @@
-@import url("./header/header.css");
-@import url("./global/global.css");
-@import url("./utilidades/container.css");
-@import url("./pagina-inicial/inicial.css");
-@import url("./utilidades/botao.css");
+@import "./header/header.css";
+@import "./global/global.css";
+@import "./utilidades/container.css";
+@import "./pagina-inicial/inicial.css";
+@import "./utilidades/botao.css";
+@import "./utilidades/utilidades.css";
+@import "./utilidades/cores.css";
